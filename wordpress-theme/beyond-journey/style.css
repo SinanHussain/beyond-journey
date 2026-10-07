@@ -1,0 +1,16 @@
+/*
+Theme Name: Beyond Journey
+Theme URI: https://beyondjourney.net
+Author: Beyond Journey Tourism
+Author URI: https://beyondjourney.net
+Description: Custom theme for Beyond Journey Tourism, a Dubai-based travel and tourism company. Real pages for Home, About, Services, Destinations, DMC, Why Us and Contact; every section is also an Elementor widget ("Beyond Journey" group) so the pages can be edited in Elementor. Includes a working enquiry form and popup that save every enquiry in the dashboard and email it, plus editable menus, logo and contact details (Appearance > Customize > Beyond Journey Settings).
+Version: 2.5.0
+Requires at least: 6.5
+Tested up to: 7.1
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: beyond-journey
+*/
+
+/* Styles live in assets/css/tailwind.css (utility classes) and assets/css/theme.css (custom rules). */
